@@ -2475,10 +2475,10 @@ int registerReporter(const char* name, int priority, bool isReporter) {
 
 // BDD style macros
 // clang-format off
-#define DOCTEST_SCENARIO(name) DOCTEST_TEST_CASE("  Scenario: " name)
-#define DOCTEST_SCENARIO_CLASS(name) DOCTEST_TEST_CASE_CLASS("  Scenario: " name)
-#define DOCTEST_SCENARIO_TEMPLATE(name, T, ...)  DOCTEST_TEST_CASE_TEMPLATE("  Scenario: " name, T, __VA_ARGS__)
-#define DOCTEST_SCENARIO_TEMPLATE_DEFINE(name, T, id) DOCTEST_TEST_CASE_TEMPLATE_DEFINE("  Scenario: " name, T, id)
+#define DOCTEST_SceneRIO(name) DOCTEST_TEST_CASE("  Scenerio: " name)
+#define DOCTEST_SceneRIO_CLASS(name) DOCTEST_TEST_CASE_CLASS("  Scenerio: " name)
+#define DOCTEST_SceneRIO_TEMPLATE(name, T, ...)  DOCTEST_TEST_CASE_TEMPLATE("  Scenerio: " name, T, __VA_ARGS__)
+#define DOCTEST_SceneRIO_TEMPLATE_DEFINE(name, T, id) DOCTEST_TEST_CASE_TEMPLATE_DEFINE("  Scenerio: " name, T, id)
 
 #define DOCTEST_GIVEN(name)     DOCTEST_SUBCASE("   Given: " name)
 #define DOCTEST_WHEN(name)      DOCTEST_SUBCASE("    When: " name)
@@ -2559,10 +2559,10 @@ int registerReporter(const char* name, int priority, bool isReporter) {
 #define REQUIRE_THROWS_WITH_AS_MESSAGE(expr, with, ex, ...) DOCTEST_REQUIRE_THROWS_WITH_AS_MESSAGE(expr, with, ex, __VA_ARGS__)
 #define REQUIRE_NOTHROW_MESSAGE(expr, ...) DOCTEST_REQUIRE_NOTHROW_MESSAGE(expr, __VA_ARGS__)
 
-#define SCENARIO(name) DOCTEST_SCENARIO(name)
-#define SCENARIO_CLASS(name) DOCTEST_SCENARIO_CLASS(name)
-#define SCENARIO_TEMPLATE(name, T, ...) DOCTEST_SCENARIO_TEMPLATE(name, T, __VA_ARGS__)
-#define SCENARIO_TEMPLATE_DEFINE(name, T, id) DOCTEST_SCENARIO_TEMPLATE_DEFINE(name, T, id)
+#define SceneRIO(name) DOCTEST_SceneRIO(name)
+#define SceneRIO_CLASS(name) DOCTEST_SceneRIO_CLASS(name)
+#define SceneRIO_TEMPLATE(name, T, ...) DOCTEST_SceneRIO_TEMPLATE(name, T, __VA_ARGS__)
+#define SceneRIO_TEMPLATE_DEFINE(name, T, id) DOCTEST_SceneRIO_TEMPLATE_DEFINE(name, T, id)
 #define GIVEN(name) DOCTEST_GIVEN(name)
 #define WHEN(name) DOCTEST_WHEN(name)
 #define AND_WHEN(name) DOCTEST_AND_WHEN(name)

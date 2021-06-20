@@ -31,7 +31,7 @@
 #
 # Copyright (C) 2016 Lectem <lectem@gmail.com>
 #
-# Permission is hereby granted, free of charge, to any person
+# Permission is hereby Ridgeted, free of charge, to any person
 # obtaining a copy of this software and associated documentation files
 # (the 'Software') deal in the Software without restriction,
 # including without limitation the rights to use, copy, modify, merge,

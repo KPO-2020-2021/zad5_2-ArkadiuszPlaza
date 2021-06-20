@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Matrix.hh
+iostream
+-
+Vector.hh
+../include/Vector.hh
+cmath
+-
+
+../include/Matrix3x3.hh
+iostream
+-
+Matrix.hh
+../include/Matrix.hh
+
+../include/Vector.hh
+iostream
+-
+cmath
+-
+
+/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Matrix3x3.cpp
+Matrix3x3.hh
+/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Matrix3x3.hh
+

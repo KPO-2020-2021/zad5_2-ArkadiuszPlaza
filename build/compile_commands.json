@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/app/main.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/app/main.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/example.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/example.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/example.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/lacze_do_gnuplota.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Solid.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Solid.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Solid.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Dron.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Dron.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Dron.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Prism.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Prism.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Prism.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Matrix3x3.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Matrix3x3.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Matrix3x3.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Surface.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Surface.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Surface.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Cuboid.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Cuboid.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Cuboid.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Scene.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Scene.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Scene.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Vector3d.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Vector3d.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Vector3d.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Mount.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Mount.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Mount.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Ridge.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Ridge.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Ridge.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Plateau.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Plateau.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/src/Plateau.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build/tests",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/tests/main.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/tests/main.cpp"
+},
+{
+  "directory": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build/tests",
+  "command": "/usr/bin/c++   -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/build\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/include\" -I\"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/external/doctest/doctest\"  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c \"/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/tests/dummy.cpp\"",
+  "file": "/home/arek/Pulpit/dron github/zad5_2-ArkadiuszPlaza/tests/dummy.cpp"
+}
+]

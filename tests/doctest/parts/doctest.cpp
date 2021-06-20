@@ -2844,7 +2844,7 @@ namespace {
                 s << Color::Yellow << "DESCRIPTION: " << Color::None << tc->m_description << "\n";
             if(tc->m_test_suite && tc->m_test_suite[0] != '\0')
                 s << Color::Yellow << "TEST SUITE: " << Color::None << tc->m_test_suite << "\n";
-            if(strncmp(tc->m_name, "  Scenario:", 11) != 0)
+            if(strncmp(tc->m_name, "  Scenerio:", 11) != 0)
                 s << Color::Yellow << "TEST CASE:  ";
             s << Color::None << tc->m_name << "\n";
 

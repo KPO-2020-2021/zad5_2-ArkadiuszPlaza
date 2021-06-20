@@ -171,7 +171,7 @@ public:
           file_line_to_stream(tc->m_file.c_str(), static_cast<int>(tc->m_line), "\n");
           if(tc->m_test_suite && tc->m_test_suite[0] != '\0')
             s << Color::Yellow << "TEST SUITE: " << Color::None << tc->m_test_suite << "\n";
-          if(strncmp(tc->m_name, "  Scenario:", 11) != 0)
+          if(strncmp(tc->m_name, "  Scenerio:", 11) != 0)
             s << Color::Yellow << "TEST CASE:  ";
           s << Color::None << tc->m_name << "\n\n";
           for(const auto& msg : msgs) {
